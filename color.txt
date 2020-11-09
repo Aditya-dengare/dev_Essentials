@@ -1,2 +1,6 @@
-Colors: Red,Pink,blue,Black,Unknow color
+<<<<<<< HEAD
+Colors: Red,Pink,blue,Black
 
+=======
+Colors: Red,Pink,blue,Black,Grey
+>>>>>>> abbcb9bf787f0c201490c04a700b14b3eb9dac62
